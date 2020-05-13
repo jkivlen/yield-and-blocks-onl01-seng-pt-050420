@@ -15,5 +15,5 @@ hello_t(["Tim", "Tom", "Jim"]) do |name|
     puts "Hi, #{name}"
   end
 end
-# call your method here!
+
 
